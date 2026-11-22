@@ -96,7 +96,7 @@
   "92210-4dbf45b48fc5adf680b6.js": "92210-4dbf45b48fc5adf680b6.js",
   "92e3bd57.js": "92e3bd57-4c23fac9cef51df73be1.js",
   "93012-68cf1fda178312756c1e.js": "93012-68cf1fda178312756c1e.js",
-  "931aec677f469a2c7f350fd02dd24e88c75cb8ca.js": "931aec677f469a2c7f350fd02dd24e88c75cb8ca-ad34679ef7794d1628d4.js",
+  "931aec677f469a2c7f350fd02dd24e88c75cb8ca.js": "931aec677f469a2c7f350fd02dd24e88c75cb8ca-a8d67e9f614ec332f324.js",
   "94726e6d-25675a2e73db1ea4cdcf.js.LICENSE.txt": "94726e6d-25675a2e73db1ea4cdcf.js.LICENSE.txt",
   "94726e6d.js": "94726e6d-25675a2e73db1ea4cdcf.js",
   "94a250bc52096c73e45b6e842c0c799443337fa7.js": "94a250bc52096c73e45b6e842c0c799443337fa7-9d116a041f429b0ca404.js",
@@ -111,8 +111,8 @@
   "aaa5778d.js": "aaa5778d-17a0d0e77461390c30b4.js",
   "ac581ebe.js": "ac581ebe-d8f297aa0b7917a0edd2.js",
   "acf8f1d7eae75e3466fba11dc4ad63bf7bf526ff.js": "acf8f1d7eae75e3466fba11dc4ad63bf7bf526ff-31c6e8385bcc6b58f10f.js",
-  "app-0be5ead7b2ca872f1b13.js.LICENSE.txt": "app-0be5ead7b2ca872f1b13.js.LICENSE.txt",
-  "app.js": "app-0be5ead7b2ca872f1b13.js",
+  "app-7739a306895108466adc.js.LICENSE.txt": "app-7739a306895108466adc.js.LICENSE.txt",
+  "app.js": "app-7739a306895108466adc.js",
   "b5f6012b.js": "b5f6012b-0d788a08c9a6ff5be2b5.js",
   "b94c7d6e898e669bbfd99da21b2e9e67976b8f68.js": "b94c7d6e898e669bbfd99da21b2e9e67976b8f68-c41c7d24dd9cb777d7a6.js",
   "ba5828f4dac0658416d102e02536a23fbd61d3fb.js": "ba5828f4dac0658416d102e02536a23fbd61d3fb-3b825dbbc3a0851515d7.js",
@@ -183,7 +183,7 @@
   "component---src-pages-learn-workshops-js.js": "component---src-pages-learn-workshops-js-c2d67907902f83298b93.js",
   "component---src-pages-newcomers-js.js": "component---src-pages-newcomers-js-e27f3c7518744de9b379.js",
   "component---src-pages-partners-js.js": "component---src-pages-partners-js-d24dfa048dd6e1b77041.js",
-  "component---src-pages-pricing-index-js.js": "component---src-pages-pricing-index-js-ef7a3cd02eb45e4dc8c2.js",
+  "component---src-pages-pricing-index-js.js": "component---src-pages-pricing-index-js-29e319346df7381c7f18.js",
   "component---src-pages-pricing-open-source-program-js.js": "component---src-pages-pricing-open-source-program-js-baa1eeb7e9f0e1174738.js",
   "component---src-pages-products-academy-index-js.js": "component---src-pages-products-academy-index-js-a73a93b80e826866da46.js",
   "component---src-pages-products-index-js.js": "component---src-pages-products-index-js-757068c2fc4b0fe776bc.js",
@@ -2120,5 +2120,5 @@
   "static/yash-sharma.webp": "static/yash-sharma-54aa26b6e5743f0557cfc76aa9797f2d.webp",
   "static/yogi.webp": "static/yogi-d00ca1cc48ab74938a23d4359ef3fb01.webp",
   "styles.css": "styles.36a061adc6a8dfab5924.css",
-  "webpack-runtime.js": "webpack-runtime-989bf45e6aa0737258d9.js"
+  "webpack-runtime.js": "webpack-runtime-776dcc3f3977281e7f4b.js"
 }
